@@ -1,0 +1,9 @@
+webservice\web\service\c\Datamahasiswa.class
+webservice\web\service\c\exceptions\IllegalOrphanException.class
+webservice\web\service\c\Application.class
+webservice\web\service\c\DatabaseController.class
+webservice\web\service\c\DatamahasiswaJpaController.class
+webservice\web\service\c\exceptions\PreexistingEntityException.class
+webservice\web\service\c\Datamahasiswa_.class
+webservice\web\service\c\Repositorymahasiswa.class
+webservice\web\service\c\exceptions\NonexistentEntityException.class
